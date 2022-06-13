@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9f490b2-a489-4307-b299-4dcbd6f0ad85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/homework1/hw1_task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/homework1/hw1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/homework1/hw1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/lesson 2" beforeDir="false" afterPath="$PROJECT_DIR$/../git/lesson 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/lesson 3.1" beforeDir="false" afterPath="$PROJECT_DIR$/../git/lesson 3.1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AURERRLbubpjGQfgPDD9jHNvec" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.hw1_task2">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="hw1" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw1_task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw1_task2" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.hw1" />
+      <item itemvalue="Application.hw1_task2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.hw1_task2" />
+        <item itemvalue="Application.hw1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9f490b2-a489-4307-b299-4dcbd6f0ad85" name="Default Changelist" comment="" />
+      <created>1655062066227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655062066227</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1655063797468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655063797468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="128" width="813" height="666" key="#Project_Structure" timestamp="1655062144477">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="340" y="128" width="813" height="666" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1655062144477" />
+    <state x="204" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655067698416">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="204" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1655067698416" />
+    <state x="362" y="66" key="CommitChangelistDialog2" timestamp="1655063959767">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="362" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1655063959767" />
+    <state width="1358" height="223" key="GridCell.Tab.0.bottom" timestamp="1655071790796">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1655071790796" />
+    <state width="1358" height="223" key="GridCell.Tab.0.center" timestamp="1655071790795">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1655071790795" />
+    <state width="1358" height="223" key="GridCell.Tab.0.left" timestamp="1655071790795">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1655071790795" />
+    <state width="1358" height="223" key="GridCell.Tab.0.right" timestamp="1655071790796">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1655071790796" />
+    <state width="1358" height="276" key="GridCell.Tab.1.bottom" timestamp="1655069572501">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="276" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1655069572501" />
+    <state width="1358" height="276" key="GridCell.Tab.1.center" timestamp="1655069572501">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="276" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1655069572501" />
+    <state width="1358" height="276" key="GridCell.Tab.1.left" timestamp="1655069572500">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="276" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1655069572500" />
+    <state width="1358" height="276" key="GridCell.Tab.1.right" timestamp="1655069572501">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="276" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1655069572501" />
+    <state x="228" y="44" key="SettingsEditor" timestamp="1655067856073">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="228" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1655067856073" />
+    <state x="340" y="189" key="Vcs.Push.Dialog.v2" timestamp="1655063970125">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="340" y="189" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1655063970125" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/homework1/hw1.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/homework1/hw1.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
