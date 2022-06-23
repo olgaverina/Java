@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9f490b2-a489-4307-b299-4dcbd6f0ad85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Python2/hw3/hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python2/hw3/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python2/hw4/extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python2/hw4/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python2/hw4/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python2/seminar4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python" beforeDir="false" afterPath="$PROJECT_DIR$/../Python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2/Homework1" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2/hw1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2/hw3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2/seminar2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2/seminar2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2/to_resolve.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2/to_resolve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../csharp" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../git/lesson 2" beforeDir="false" afterPath="$PROJECT_DIR$/../git/lesson 2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../git/lesson 3.1" beforeDir="false" afterPath="$PROJECT_DIR$/../git/lesson 3.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw_2021.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,21 +151,25 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="362" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1655063959767" />
-    <state width="1358" height="223" key="GridCell.Tab.0.bottom" timestamp="1655071790796">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1655487735014">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1655487735014" />
     <state width="1358" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1655071790796" />
-    <state width="1358" height="223" key="GridCell.Tab.0.center" timestamp="1655071790795">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1655487735014">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1655487735014" />
     <state width="1358" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1655071790795" />
-    <state width="1358" height="223" key="GridCell.Tab.0.left" timestamp="1655071790795">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1655487735013">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1655487735013" />
     <state width="1358" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1655071790795" />
-    <state width="1358" height="223" key="GridCell.Tab.0.right" timestamp="1655071790796">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1655487735014">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1655487735014" />
     <state width="1358" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1655071790796" />
     <state width="1358" height="276" key="GridCell.Tab.1.bottom" timestamp="1655069572501">
       <screen x="0" y="23" width="1440" height="877" />
